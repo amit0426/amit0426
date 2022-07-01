@@ -1,5 +1,5 @@
 
-<img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding" width="400" >
+<img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding" width="1000" height="300" >
 
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
