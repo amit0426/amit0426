@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, SQL,Java,HTML,CSS,Javascript**
 
-- 👯 I’m looking to collaborate on [Dermstore Website Clone](https://github.com/GautamViki/DermStore)
+- 👯 I’m looking to collaborate on [Dermstore Website Clone](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bespoke-banoffee-bf735d.netlify.app/)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **kumar7830137966@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iRY3yjE-lvEX8qe4r7BMlTV7hUuqGRnk/view?usp=sharing](https://drive.google.com/file/d/1iRY3yjE-lvEX8qe4r7BMlTV7hUuqGRnk/view?usp=sharing)
+- 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1B3ep1z7leNO2QUGrs0Tv8uY7Gxsb6LIJ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
