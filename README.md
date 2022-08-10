@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Dermstore Website Clone](https://github.com/GautamViki/DermStore)
 
-- 👨‍💻 All of my projects are available at (https://bespoke-banoffee-bf735d.netlify.app)]
+- 👨‍💻 All of my projects are available at [Portfolio](https://bespoke-banoffee-bf735d.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
 
