@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit0426" alt="amit0426" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, SQL,Java,HTML,CSS,Javascript**
+- 🌱 I’m currently learning **Spring Boot, MYSQL,Java,Hibernate, HTML,CSS,Javascript**
 
 - 👯 I’m looking to collaborate on [Dermstore Website Clone](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
 
-- 💬 Ask me about **Java,Spring Boot, SQL,Java**
+- 💬 Ask me about **Java,Spring Boot, MYSQL,Java**
 
 - 📫 How to reach me **kumar7830137966@gmail.com**
 
