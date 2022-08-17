@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
 
-- 💬 Ask me about **Java,Spring Boot, MYSQL,Java**
+- 💬 Ask me about **Java,Spring Boot,Hibernate, MYSQL,**
 
 - 📫 How to reach me **kumar7830137966@gmail.com**
 
