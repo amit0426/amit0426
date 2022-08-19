@@ -15,15 +15,15 @@
 
 - 👯 I’m looking to collaborate on [Dermstore Website Clone](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://bespoke-banoffee-bf735d.netlify.app/)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://spontaneous-cajeta-b5fdf9.netlify.app)
 
-- 📝 I regularly write articles on [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
+- 📝 I regularly write articles on   [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
 
 - 💬 Ask me about **Java,Spring Boot,Hibernate, MYSQL,**
 
-- 📫 How to reach me **kumar7830137966@gmail.com**
+- 📫 How to reach me ** amitkumar9761785380@gmail.com,  kumar7830137966@gmail.com**
 
-- 📄 Know about my experiences[Resume](https://drive.google.com/file/d/1B3ep1z7leNO2QUGrs0Tv8uY7Gxsb6LIJ/view?usp=sharing)
+- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1rz6-jItWHaZQC1Yh5qp18DJoTsKK_-4X/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
