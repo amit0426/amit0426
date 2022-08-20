@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on [Dermstore Website Clone](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
 
-- 👨‍💻 All of my projects are available at  [Portfolio](https://tourmaline-cascaron-e3b510.netlify.app)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://clinquant-lebkuchen-727d37.netlify.app)
 
 - 📝 I regularly write articles on   [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
 
