@@ -23,7 +23,7 @@
 
 - 📫 How to reach me ** amitkumar9761785380@gmail.com,  kumar7830137966@gmail.com**
 
-- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1fO_V6CuiEIQKjQrwK94wuDyRfIGhc_Pd/view)
+- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1ZaGFNaKqBbKF7mVklls72Hd_BHKN0Mjv/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
